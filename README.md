@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Krzychu1289
+- 💻 Programmer in Python, a little bit of JavaScript, and writing in HTML, CSS
